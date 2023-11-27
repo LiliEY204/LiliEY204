@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LiliEY204
 - 👀 I’m interested in everything about technology
 - 🌱 I’m currently learning computer science at IAI Togo 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
